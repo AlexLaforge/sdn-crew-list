@@ -1,23 +1,9 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Crew-list}
-TODO: It's a form to fill client's infomation
-## Installation
-TODO: Describe the installation process
-## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
-## License
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+# Project renew crew-list
+- How it work
+1. Client fill their information and Skipper resume.
+2. Attachments file.
+3. Detect complete progressing.
+4. Every input automatic saved by Ajax.
+5. Export crew list in PDF.
+6. Give Access.
+7. Can open as no session version.
