@@ -7,3 +7,4 @@
 5. Export crew list in PDF.
 6. Give Access.
 7. Can open as no session version.
+8. Responsive Design
